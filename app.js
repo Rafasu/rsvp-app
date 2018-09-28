@@ -92,6 +92,11 @@
     });
 
     ul.addEventListener('click', (e) => {
+        function saveString(str){
+            
+        }
+        
+        
         if (e.target.tagName === 'BUTTON') {
             const button = e.target;
             const li = button.parentNode;
