@@ -1,4 +1,4 @@
-//document.addEventListener('DOMContentLoaded', () =>{
+document.addEventListener('DOMContentLoaded', () =>{
 
     const form = document.getElementById('registrar');
     const input = form.querySelector('input');
@@ -130,7 +130,7 @@
             nameActions[action]() ;
       }
     }); 
-//});
+});
   
   
   
