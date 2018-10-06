@@ -21,7 +21,7 @@ Répondez s'il vous plaît application.
  * ___Rafael Solís___: UX Experience, design, testing.
 
  ## License
- This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
+ This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Rafasu/rsvp-app/blob/master/LICENSE) file for details
 
  ## Acknowledgments
 
